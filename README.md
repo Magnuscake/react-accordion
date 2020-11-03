@@ -1,6 +1,8 @@
-#### Idea
+## React Based Accordion Component
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+This is just a practice project for improving my React skills. Click on the link in the description for a demo.
+
+Desgin from [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
 ![](./idea.png);
 
